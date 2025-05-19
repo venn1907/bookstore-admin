@@ -5,7 +5,6 @@ import "./globals.css"
 export const metadata: Metadata = {
   title: "BookStore Admin",
   description: "Admin dashboard for BookStore application",
-    generator: 'v0.dev'
 }
 
 export default function RootLayout({
